@@ -1,0 +1,6 @@
+@gitweb3_HostAddress = http://localhost:5012
+
+GET {{gitweb3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
